@@ -1,7 +1,5 @@
 # FCC Test Suite Template
 
-# Description of the project.
-
 # Template is forked from the Free Code Camp Test Suite. It's one of the tests on basic webpage responsiveness. It is used here for the Microverse self review project.
 
 Built With: HTML and CSS
